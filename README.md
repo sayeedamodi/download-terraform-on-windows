@@ -111,7 +111,7 @@ terraform apply    # Apply changes to reach desired state
 These commands will help you get started with Terraform quickly.
 
 
-## Author @Sayeedamodi
+## Author [@sayeedamodi](https://in.linkedin.com/in/sayeed-amodi)
 ```
 
 
