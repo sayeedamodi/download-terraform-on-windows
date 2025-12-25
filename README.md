@@ -61,7 +61,7 @@ C:\Program Files\terraform
 2. Open **Settings** → search for **Environment Variables**
 3. Select **Edit the system environment variables**
 4. Click **Environment Variables**
-5. Under **System variables**, select **Path** → click **Edit**
+5. Under **System variables**, select **Path** a new windows opens showing all the paths 
 6. Click **New** and paste the copied Terraform path
 7. Click **OK** on all open windows
 
